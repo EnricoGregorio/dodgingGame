@@ -17,7 +17,6 @@ O jogo foi desenvolvido do zero, com foco em aprendizado, carinho e personaliza�
 - **Seta para baixo (↓) ou S**: move a moto para baixo
 - **Esc**: fechar o jogo
 - **R**: reinicia o jogo
-- 
 - O objetivo é **não colidir com nenhum veículo**
 - Quanto mais tempo você durar, **mais difícil fica!**
 
