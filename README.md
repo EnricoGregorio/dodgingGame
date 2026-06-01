@@ -1,4 +1,4 @@
-# 💖 MaduGame
+# 🎮 Dodging Game
 
 **Dodging Game** é um jogo simples e divertido de esquiva feito inteiramente em **Java** (AWT/Swing).  
 Nele, o jogador **pilota uma moto** e precisa **desviar de veículos** que aparecem de forma aleatória na tela - que, com o tempo, se tornam cada vez mais rápidos e desafiadores.
