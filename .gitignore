@@ -1,3 +1,7 @@
+# Arquivos do SO (Mac)
+.DS_Store
+**/.DS_Store
+
 # Arquivos de configuração do IntelliJ IDEA
 .idea/
 *.iml
@@ -7,5 +11,5 @@ gen/
 # Arquivos compilados do Java
 *.class
 
-# Arquivos do sistema operacional (Mac)
-.DS_Store
+# Pasta de saves
+/saves
