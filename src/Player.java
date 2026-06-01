@@ -7,7 +7,7 @@ public class Player extends Rectangle {
     private int width = 120, height = 140;
 
     private boolean isMove = true;
-    private int curFrames = 0, targetFrames = 13;
+    private int curFrames = 0, targetFrames = 20;
     private int curAnimation = 0;
     private boolean isCollides = !Game.isCollide(Game.player);
 

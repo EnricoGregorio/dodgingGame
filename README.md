@@ -1,13 +1,13 @@
 # 💖 MaduGame
 
-**MaduGame** é um jogo simples e divertido feito inteiramente em **Java**, criado especialmente para minha namorada 💕.  
-Nele, a personagem pilota sua **Honda Biz** e precisa **desviar de veículos** que aparecem de forma aleatória na tela — que, com o tempo, se tornam cada vez mais rápidos e desafiadores.
+**Dodging Game** é um jogo simples e divertido de esquiva feito inteiramente em **Java** (AWT/Swing).  
+Nele, o jogador **pilota uma moto** e precisa **desviar de veículos** que aparecem de forma aleatória na tela - que, com o tempo, se tornam cada vez mais rápidos e desafiadores.
 
 ## 🚦 Sobre o jogo
 
 A ideia é simples: sobreviver o máximo de tempo possível desviando dos carros que surgem na estrada. Com o passar do tempo, os veículos ficam mais rápidos, tornando a reação do jogador cada vez mais importante.
 
-O jogo foi desenvolvido do zero, com foco em aprendizado, carinho e personalização.
+O jogo foi desenvolvido do zero como um projeto prático para exercitar conceitos de Programação Orientada a Objetos (POO), manipulação de gráficos 2D e o ciclo de vida de um Game Loop.
 
 ---
 
@@ -57,20 +57,13 @@ O projeto foi construído com as **bibliotecas padrão do Java (AWT/Swing)**. Ne
 **Obs.:** Certifique-se de que os recursos (imagens/sprites) estejam no caminho correto.
 **Dica:** Use `getClass().getResource("/...")` para evitar problemas em diferentes sistemas operacionais.
 
----
-
-## ❤️ Uma homenagem
-
-Este jogo foi criado com muito carinho para a pessoa **incrível** que é a **minha namorada**!
-Nenhuma ideia me fez tão **feliz** quanto essa. Unir programação, criatividade e amor em um projeto único para fazer a pessoa que **eu amo** feliz. ✨
-
 --- 
 
 ## 📸 Screenshots
 
-![Screenshot do jogo rodando. Nessa imagem, pode-se observar a personagem da minha namorada andando em sua moto, dois carros vindo em sua direção pela direita e as faixas no meio da pista.](README-img/image.png)
+![Screenshot do jogo rodando. Nessa imagem, pode-se observar a personagem da minha namorada andando em sua moto, dois carros vindo em sua direção pela direita e as faixas no meio da pista.](README-img/img.png)
 
-![Screenshot da tela de Game Over. Nessa imagem, pode-se ver a personagem da minha namorada encostada diretamente em um carro e uma mensagem escrita "Game Over" na parte superior da foto.](README-img/image-1.png)
+![Screenshot da tela de Game Over. Nessa imagem, pode-se ver a personagem da minha namorada encostada diretamente em um carro e uma mensagem escrita "Game Over" na parte superior da foto.](README-img/img_1.png)
 
 ---
 
